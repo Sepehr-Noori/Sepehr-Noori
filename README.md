@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Sepehr Noori and I'm currently studying in Sharif University of Technology in Tehran and I know some C++ and java and python 
 <!--
 **Sepehr-Noori/Sepehr-Noori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
